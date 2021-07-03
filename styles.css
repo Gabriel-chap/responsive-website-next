@@ -417,7 +417,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/pic4.jpg');
+      url('/images/pic2.jpg');
   }
   
   .services__card h2 {
@@ -611,4 +611,5 @@
       width: 100%;
     }
   }
+  
   
